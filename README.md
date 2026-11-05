@@ -2,11 +2,13 @@
 
 Welcome to the Python Interactive Multi-Level Quiz Game! This project is a dynamic, built and executed in Jupyter Notebook. It is designed to test and improve your Python programming knowledge across three progressively challenging levels.
 
+
 📌 Project Overview
 
 This quiz game provides a fun and structured way to evaluate Python skills. Starting from basic syntax to advanced object-oriented programming, players must demonstrate mastery at each level before unlocking the next.
 
 Whether you are a beginner looking to test your knowledge or a reviewer checking out this portfolio project, the game ensures a fair and dynamic experience through randomized questions and automatic score tracking.
+
 
 ✨ Key Features
 
@@ -18,11 +20,13 @@ Level 2: Intermediate Concepts – Covers data structures (lists, tuples, dictio
 
 Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriented Programming (OOP).
 
+
 🔀 Dynamic Question Shuffling:
 
 .Powered by Python's built-in random module (random.shuffle()).
 
 .Every time you run the quiz, questions appear in a different order, making every attempt unique.
+
 
 🔒 Smart Level Unlocking System:
 
@@ -32,11 +36,13 @@ Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriente
 
 .You must score a perfect 15/15 in Level 2 to unlock Level 3.
 
+
 🎯 Real-Time Feedback & Score Tracking:
 
 .Instant feedback on whether your answer is correct or incorrect.
 
 .Final performance summary displayed at the end of each level.
+
 
 🛠️ How the Game Works 
 
@@ -46,6 +52,7 @@ Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriente
 
 3.Final Achievement : Successfully clearing all three levels grants you the ultimate "Python Quiz Champion" title.
 
+
 🧰 Technologies Used
 
 .Programming Language: Python 3
@@ -53,6 +60,7 @@ Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriente
 .Libraries: random (Standard Library)
 
 .Development Environment: Jupyter Notebook / Python CLI
+
 
 🚀 How to Run the Project
 
