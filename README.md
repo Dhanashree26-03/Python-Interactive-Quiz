@@ -38,34 +38,13 @@ Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriente
 
 .Final performance summary displayed at the end of each level.
 
-🛠️ How the Game Works
-'''
-[ Start Game ]
-      │
-      ▼
-┌─────────────┐
-│   Level 1   │  ──( Score < 15/15 )──>  [ Retry Level 1 ]
-└─────────────┘
-      │
- ( Score 15/15 )
-      │
-      ▼
-┌─────────────┐
-│   Level 2   │  ──( Score < 15/15 )──>  [ Retry Level 2 ]
-└─────────────┘
-      │
- ( Score 15/15 )
-      │
-      ▼
-┌─────────────┐
-│   Level 3   │  ──( Score < 15/15 )──>  [ Retry Level 3 ]
-└─────────────┘
-      │
- ( Score 15/15 )
-      │
-      ▼
-🏆 [ Python Quiz Champion! ]
-,,,
+🛠️ How the Game Works 
+
+1.Level Progression : You must achieve a perfect score of 15/15 in each level to unlock the next level.
+
+2.Retry on Lower Score : If your score is less than 15, you will get an option to retry that level until you succeed.
+
+3.Final Achievement : Successfully clearing all three levels grants you the ultimate "Python Quiz Champion" title.
 
 🧰 Technologies Used
 
