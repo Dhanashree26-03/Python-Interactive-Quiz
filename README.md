@@ -39,8 +39,7 @@ Level 3: Advanced Topics – Covers functions, file handling, and Object-Oriente
 .Final performance summary displayed at the end of each level.
 
 🛠️ How the Game Works
-
-'''text
+'''
 [ Start Game ]
       │
       ▼
